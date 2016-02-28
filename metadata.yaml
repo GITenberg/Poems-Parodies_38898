@@ -1,0 +1,37 @@
+_repo: Poems-Parodies_38898
+alternative_title: Poems and Parodies
+covers:
+- cover_type: archival
+  image_path: 38898/38898-h/images/img-cover.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+- cover_type: archival
+  image_path: 38898/38898-rst/images/img-cover.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Kettle, Tom
+    aliases:
+    - Kettle, Thomas Michael
+    - Kettle, T. M. (Thomas Michael)
+    birthdate: 1880
+    deathdate: 1916
+    gutenberg_agent_id: '5975'
+    url: http://www.gutenberg.org/2009/agents/5975
+    wikipedia: http://en.wikipedia.org/wiki/Tom_Kettle
+description: ''
+gutenberg_bookshelf: Punch
+gutenberg_issued: '2012-02-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38898'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English poetry -- Irish authors'
+- !lcc 'PR'
+title: Poems & Parodies
+url: http://www.gutenberg.org/ebooks/38898
