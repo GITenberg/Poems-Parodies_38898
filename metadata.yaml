@@ -1,14 +1,9 @@
 _repo: Poems-Parodies_38898
+_version: 0.1.0
 alternative_title: Poems and Parodies
 covers:
 - cover_type: archival
-  image_path: 38898/38898-h/images/img-cover.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
-- cover_type: archival
-  image_path: 38898/38898-rst/images/img-cover.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+  image_path: 38898-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Kettle, Tom
@@ -21,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5975
     wikipedia: http://en.wikipedia.org/wiki/Tom_Kettle
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38898#Poems-Parodies
 gutenberg_bookshelf: Punch
 gutenberg_issued: '2012-02-16'
 gutenberg_type: Text
